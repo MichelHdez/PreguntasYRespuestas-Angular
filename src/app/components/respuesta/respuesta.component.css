@@ -1,0 +1,13 @@
+.badge{
+    float: right;
+}
+
+.material-icons.correct{
+    font-size: 18px;
+    color: #17a2b8;
+}
+
+.material-icons.incorrect{
+    color: #da2d2d;
+    font-size: 18px;
+}
